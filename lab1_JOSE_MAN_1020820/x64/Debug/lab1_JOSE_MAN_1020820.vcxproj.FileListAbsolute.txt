@@ -1,0 +1,3 @@
+C:\Users\jmanc\OneDrive\Desktop\4to Ciclo\Programación avanzada labs\lab1_JOSE_MAN_1020820\lab1_JOSE_MAN_1020820\x64\Debug\lab1_JOSE_MAN_1020820.vcxprojAssemblyReference.cache
+C:\Users\jmanc\OneDrive\Desktop\4to Ciclo\Programación avanzada labs\lab1_JOSE_MAN_1020820\lab1_JOSE_MAN_1020820\x64\Debug\lab1JOSEMAN1020820.MyForm.resources
+C:\Users\jmanc\OneDrive\Desktop\4to Ciclo\Programación avanzada labs\lab1_JOSE_MAN_1020820\lab1_JOSE_MAN_1020820\x64\Debug\lab1_JOSE_MAN_1020820.vcxproj.GenerateResource.cache
